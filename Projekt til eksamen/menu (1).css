@@ -1,0 +1,60 @@
+@media screen and (min-width: 430px) and (max-width: 930px) {  /*sat til Iphone 14 og 15 ifølge figma*/
+body{background-color: #2d2828;
+}
+@import url(https://fonts.googleapis.com/css2?family=Inter&family=Lato&display=swap%27);    
+.LG {
+position: relative;
+top: 8px;
+left: 8px;}
+
+.img {
+position: relative;
+bottom: 40px;
+left: 200px;}
+
+.LOBBYEN {
+position: relative;
+color: white;
+left: 88px;
+font-size: 30px;
+top: 30px;
+text-decoration: none;
+font-family:inter, sans-serif;}
+
+.LOBBYEN:hover {color: #556E53}
+
+
+.SPORT {
+position: relative;
+color: white;
+left: 106px;
+font-size: 30px;
+top: 40px;
+text-decoration: none;}
+    
+.NYHEDER {
+    position: relative;
+    color: white;
+    left: 30px;
+    font-size: 30px;
+    top: 46px;
+    text-decoration: none;}
+
+    .INFO {
+        position: relative;
+        color: white;
+        left: 118px;
+        font-size: 30px;
+        top: 52px;
+        text-decoration: none;}
+    
+
+}
+
+/*computer view*/
+@media screen and (min-width: 768px) {
+    body{
+    background-color: #2d2828;
+    overflow-x: hidden;}
+  
+    }  

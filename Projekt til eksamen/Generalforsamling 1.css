@@ -1,0 +1,105 @@
+@media screen and (min-width: 430px) and (max-width: 930px) { 
+    @import url(https://fonts.googleapis.com/css2?family=Inter&family=Lato&display=swap%27);    
+    body{
+    background-color: #2d2828;
+    width: 100%;
+    height: 100%;
+    overflow-x: hidden;}
+
+    .Menu {
+        position: relative;
+        bottom: 85px;
+        left: 400px;}
+
+
+        .generalforsamling {
+            position: relative;
+            color: white;
+            font-family: inter, sans-serif;
+            bottom: 80px;
+            font-size: 32px;
+            width: 431px;
+            line-height: 35px;
+            left: 125px;}
+       
+        .Generalforsamling {
+            position: relative;
+            color: white;
+            font-family: inter, sans-serif;
+            bottom: 80px;
+            font-size: 16px;
+            width: 431px;
+            line-height: 25px;
+            left: 45px;}
+
+        .Dagsorden {
+            position: relative;
+            color: white;
+            font-family: inter, sans-serif;
+            bottom: 10px;
+            font-size: 16px;
+            width: 431px;
+            line-height: 25px;
+            right:  10px;}
+
+        .PDF{
+            position: relative;
+            color: white;
+            font-family: inter, sans-serif;
+            bottom: 20px;
+            font-size: 16px;
+            width: 431px;
+            line-height: 25px;
+            right:  0px;}
+
+
+
+                .Privatpolitiktekst { 
+                position: relative;
+                color: white;
+                left: 1px;
+                font-size: 16px;
+                top: 40px;
+                font-size: 16px;
+                line-height: 25px;
+                font-family: inter, sans-serif;
+            }
+                
+                .footer {
+                position: relative;
+                
+                }
+                
+                .linje {
+                position: relative;
+                border-top: 2px solid #ffffff; /* White color */
+                width: 90px; 
+                bottom: 155px;  }
+                  
+                .facebookimg {
+                position: relative;
+                bottom: 160px;
+                left: 330px;
+                }
+            }
+
+                /*computer view*/
+@media screen and (min-width: 768px) {
+    body{
+    background-color: #2d2828;
+    width: 100%;
+    height: 100%;
+    margin: 0px;
+    overflow-x: hidden;}
+    
+    .Menu {
+        position: relative;
+        bottom: 85px;
+        left: 400px;
+    display: none;
+    }
+
+
+
+            }
+        

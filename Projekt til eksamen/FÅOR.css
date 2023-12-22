@@ -1,0 +1,148 @@
+@media screen and (min-width: 768px) {
+    body {background-color: #2d2828;}
+    @import url(https://fonts.googleapis.com/css2?family=Inter&family=Lato&display=swap%27);    
+    body{
+    background-color: #2d2828;
+    width: 100%;
+    height: 100%;
+    overflow-x: hidden;}
+    
+
+   
+    .forårsfest {
+        position: relative;
+        color: white;
+        font-family: inter, sans-serif; /*ændre skrifttyoen*/
+        bottom: 40px;
+        font-size: 16px;
+        width: 431px;
+        line-height: 25px;
+        left: 35px;}
+
+    .Forårsfest {
+        position: relative;
+        color: white;
+        font-family: inter, sans-serif;
+        bottom: 40px;
+        font-size: 32px;
+        width: 1000px;
+        line-height: 35px;
+        left: 555px;}
+    
+
+            .Privatpolitiktekst { 
+            position: relative;
+            color: white;
+            left: 1px;
+            font-size: 16px;
+            top: 40px;
+            font-size: 16px;
+            line-height: 25px;}
+            
+            .footer {
+            position: relative;
+            
+            }
+            
+            .linje {
+            position: relative;
+            border-top: 2px solid #ffffff; /* White color */
+            width: 90px; 
+            bottom: 155px;  }
+              
+            .facebookimg {
+            position: relative;
+            bottom: 160px;
+            left: 330px;
+            }
+
+            .img {
+                position: relative;
+               bottom: 440px;
+               left: 30px;
+               display: none;
+               
+        }
+    }
+@media screen and (min-width: 430px) and (max-width: 930px) { 
+                @import url(https://fonts.googleapis.com/css2?family=Inter&family=Lato&display=swap%27);    
+                body{
+                background-color: #2d2828;
+                width: 100%;
+                height: 100%;
+                overflow-x: hidden;}
+            
+                .Menu {
+                    position: relative;
+                    bottom: 85px;
+                    left: 400px;}
+            
+                    .forårsfest {
+                        position: relative;
+                        color: white;
+                        font-family: inter, sans-serif;
+                        bottom: 80px;
+                        font-size: 16px;
+                        width: 431px;
+                        line-height: 25px;
+                        left: 45px;}
+            
+                    .Forårsfest {
+                        position: relative;
+                        color: white;
+                        font-family: inter, sans-serif;
+                        bottom: 80px;
+                        font-size: 32px;
+                        width: 431px;
+                        line-height: 35px;
+                        left: 190px;}
+ 
+
+            
+                    .link {
+                        position: relative;
+                        color: white;
+                        font-family: inter, sans-serif;
+                        font-size: 16px;
+                        width: 431px;
+                        line-height: 35px;
+                        left: 0px;
+                        text-decoration: none;}
+            
+                            .Privatpolitiktekst { 
+                            position: relative;
+                            color: white;
+                            left: 1px;
+                            font-size: 16px;
+                            top: 40px;
+                            font-size: 16px;
+                            line-height: 25px;}
+                            
+                            .footer {
+                            position: relative;
+                            
+                            }
+                            
+                            .linje {
+                            position: relative;
+                            border-top: 2px solid #ffffff; /* White color */
+                            width: 90px; 
+                            bottom: 155px;  }
+                              
+                            .facebookimg {
+                            position: relative;
+                            bottom: 160px;
+                            left: 330px;
+                            }
+                
+                            .img {
+ position: relative;
+bottom: 440px;
+left: 30px;
+
+                            }
+
+
+
+                        }
+                    

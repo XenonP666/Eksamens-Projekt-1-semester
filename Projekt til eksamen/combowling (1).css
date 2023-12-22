@@ -1,0 +1,99 @@
+@media screen and (min-width: 768px) {
+    body {background-color: #2d2828;}
+    @import url(https://fonts.googleapis.com/css2?family=Inter&family=Lato&display=swap%27);    
+    body{
+    background-color: #2d2828;
+    width: 100%;
+    height: 100%;
+    overflow-x: hidden;}
+
+
+    .bowling {
+        position: relative;
+        color: white;
+        font-family: inter, sans-serif;
+        bottom: 40px;
+        font-size: 32px;
+        width: 431px;
+        line-height: 35px;
+        left: 555px;}
+
+
+    .Bowling {
+        position: relative;
+        color: white;
+        font-family: inter, sans-serif;
+        bottom: 40px;
+        font-size: 16px;
+        width: 1000px;
+        line-height: 25px;
+        left: 45px;}
+
+        .præmie {
+            position: relative;
+            color: white;
+            font-family: inter, sans-serif;
+            bottom: 15px;
+            font-size: 16px;
+            width: 1000px;
+            line-height: 25px;
+            left: 0px;}
+
+            .Mød {
+                position: relative;
+                color: white;
+                font-family: inter, sans-serif;
+                bottom: 15px;
+                font-size: 16px;
+                width: 431px;
+                line-height: 25px;
+                left: 0px;}
+
+        .PDF {
+            position: relative;
+            color: white;
+            font-family: inter, sans-serif;
+            bottom: 15px;
+            font-size: 16px;
+            width: 1000px;
+            line-height: 25px;
+            left: 0px;}
+
+
+
+    .Privatpolitiktekst { 
+        position: relative;
+        color: white;
+        left: 1px;
+        font-size: 16px;
+        top: 40px;
+        font-size: 16px;
+        line-height: 25px;
+        font-family: inter, sans-serif;
+    }
+        
+        .footer {
+        position: relative;
+        
+        }
+        
+        .linje {
+        position: relative;
+        border-top: 2px solid #ffffff; /* White color */
+        width: 90px; 
+        bottom: 155px;  }
+          
+        .facebookimg {
+        position: relative;
+        bottom: 160px;
+        left: 330px;
+        }
+
+        .Menu {
+            position: relative;
+            bottom: 85px;
+            left: 400px;
+        display: none;
+        }
+
+    }

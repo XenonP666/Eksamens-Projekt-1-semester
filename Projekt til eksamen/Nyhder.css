@@ -1,0 +1,396 @@
+@media screen and (min-width: 430px) and (max-width: 930px) { 
+@import url(https://fonts.googleapis.com/css2?family=Inter&family=Lato&display=swap%27);  
+body {
+    background-color: #2d2828;
+    width: 100%;
+    height: 100%;
+    overflow-x: hidden;
+  }
+  
+.header {
+    position: relative;
+    background-color: #222020;
+    width: 620px;
+    height: 120px;
+    margin: -10px;
+  }
+  
+.LOBLOGO {
+position: relative;
+bottom: 100px;
+}
+
+.BM {
+  position: relative;
+  bottom: 200px;
+  left: 440px;
+  }
+
+.headingtag {
+position: relative;
+color: white;
+bottom: 130px;
+left: 70px;
+font-size: 20px;}
+
+.Forårsfest {
+position: relative;
+left: 280px;
+top: 318px;}
+
+.GLF {
+position: relative;
+bottom: 90px;
+left: 20px;}
+
+.FRF  {
+position: relative;
+left: 308px;
+bottom: 282px;}
+
+.GRL {
+position: relative;
+left: 16px;
+bottom: 150px;}
+
+.BWL {
+position: relative;
+left: 310px;
+bottom: 324px;}
+
+.btn1 {
+position: relative;
+background-color: #222;
+padding: 12px;
+border-radius:  15px;
+border: 1px solid white;
+text-decoration: none;
+color: white;
+transition: 0.2s ease-in-out;
+bottom: 70px;
+left: 45px;}
+
+.btn1:hover {
+color: #222;
+background-color: white;}
+
+.btn2 {
+position: relative;
+background-color: #222;
+padding: 12px;
+border-radius:  15px;
+border: 1px solid white;
+text-decoration: none;
+color: white;
+transition: 0.2s ease-in-out;
+bottom: 74px;
+left: 214px;}
+  
+.btn2:hover {
+color: #222;
+background-color: white;}
+  
+.btn1:hover {
+  color: #222;
+  background-color: white;}
+  
+  .btn3 {
+  position: relative;
+  background-color: #222;
+  padding: 12px;
+  border-radius:  15px;
+  border: 1px solid white;
+  text-decoration: none;
+  color: white;
+  transition: 0.2s ease-in-out;
+  top: 230px;
+  right: 200px;}
+    
+  .btn3:hover {
+  color: #222;
+  background-color: white;}
+
+  .btn4 {
+    position: relative;
+    background-color: #222;
+    padding: 12px;
+    border-radius:  15px;
+    border: 1px solid white;
+    text-decoration: none;
+    color: white;
+    transition: 0.2s ease-in-out;
+    top: 230px;
+    right: 20px;}
+      
+    .btn4:hover {
+    color: #222;
+    background-color: white;}
+}
+
+/*computer view*/
+@media screen and (min-width: 768px) {
+  body{
+  background-color: #2d2828;
+  overflow-x: hidden;}
+
+
+  .GLF {
+    position: relative;
+    bottom: 90px;
+    left: 20px;
+  display: none;
+  }
+    
+    .FRF  {
+    position: relative;
+    left: 308px;
+    bottom: 282px;
+  display: none;
+  }
+    
+    .GRL {
+    position: relative;
+    left: 16px;
+    bottom: 150px;
+  display: none;
+  }
+    
+    .BWL {
+    position: relative;
+    left: 310px;
+    bottom: 324px;
+  display: none;
+  }
+
+  .btn1 {
+    position: relative;
+    background-color: #222;
+    padding: 12px;
+    border-radius:  15px;
+    border: 1px solid white;
+    text-decoration: none;
+    color: white;
+    transition: 0.2s ease-in-out;
+    bottom: 70px;
+    left: 45px;
+  display: none;
+  }
+
+  .BWL {
+    position: relative;
+    left: 310px;
+    bottom: 324px;
+  display: none;
+}
+
+
+.BM {
+  position: relative;
+  bottom: 200px;
+  left: 440px;
+  display: none;
+  }
+
+  
+.btn1:hover {
+  color: #222;
+  background-color: white;
+display: none;
+}
+  
+  .btn2 {
+  position: relative;
+  background-color: #222;
+  padding: 12px;
+  border-radius:  15px;
+  border: 1px solid white;
+  text-decoration: none;
+  color: white;
+  transition: 0.2s ease-in-out;
+  bottom: 74px;
+  left: 214px;
+display: none;
+
+}
+    
+  .btn2:hover {
+  color: #222;
+  background-color: white;
+display: none;
+}
+    
+  .btn1:hover {
+    color: #222;
+    background-color: white;
+  display: none;
+  }
+    
+    .btn3 {
+    position: relative;
+    background-color: #222;
+    padding: 12px;
+    border-radius:  15px;
+    border: 1px solid white;
+    text-decoration: none;
+    color: white;
+    transition: 0.2s ease-in-out;
+    top: 230px;
+    right: 200px;
+  display: none;
+  }
+      
+    .btn3:hover {
+    color: #222;
+    background-color: white;
+  display: none;
+  }
+  
+    .btn4 {
+      position: relative;
+      background-color: #222;
+      padding: 12px;
+      border-radius:  15px;
+      border: 1px solid white;
+      text-decoration: none;
+      color: white;
+      transition: 0.2s ease-in-out;
+      top: 230px;
+      right: 20px;
+    display: none;
+    }
+        
+      .btn4:hover {
+      color: #222;
+      background-color: white;
+    display: none;
+    }
+
+    .headingtag {
+      position: relative;
+      color: white;
+      bottom: 130px;
+      left: 70px;
+      font-size: 20px;
+    display: none;
+    }
+
+    .navbarpc a {
+      position: relative;
+      bottom: 100px;
+      float: right;
+      display: block;
+      font-size: 30px;
+      color: white;
+      text-align: center;
+      padding: 14px 16px;
+      text-decoration: none;}
+        
+      .navbarpc a:hover {color: #556E53;}
+      
+.forårsfest {
+position: relative;
+top: 200px;
+left: 100px;}
+
+.Grillarrangement {
+position: relative;
+bottom: 50px;
+left: 620px;}
+
+.Bowling {
+position: relative;
+bottom: 300px;
+left: 1120px;}
+
+.Generalforsamling {
+position: relative;
+bottom: 570px;
+left: 1600px;}
+  
+
+
+/*Nyheder*/
+.førsteknap {
+  position: relative;
+  background-color: #222;
+  padding: 10px;
+  border-radius: 15px;
+  border: 1px solid white;
+  text-decoration: none;
+  color: white;
+  transition: 0.2s ease-in-out;
+  bottom: 540px;
+  font-size: 20px;
+  left: 1620px;
+  padding-right: 54px;
+  padding-left: 54px;}
+            
+  .andenknap:hover {
+  color: #222;
+  background-color: white;}
+        
+  .andenknap {
+    position: relative;
+    background-color: #222;
+    padding: 10px;
+    border-radius: 15px;
+    border: 1px solid white;
+    text-decoration: none;
+    color: white;
+    transition: 0.2s ease-in-out;
+    bottom: 540px;
+    font-size: 20px;
+    right: 100px;
+    padding-right: 54px;
+    padding-left: 54px;}
+              
+    .førsteknap:hover {
+    color: #222;
+    background-color: white;}
+           
+  
+    
+  .tredjeknap {
+    position: relative;
+    background-color: #222;
+    padding: 10px;
+    border-radius: 15px;
+    border: 1px solid white;
+    text-decoration: none;
+    color: white;
+    transition: 0.2s ease-in-out;
+    bottom: 540px;
+    font-size: 20px;
+    left: 190px;
+    padding-right: 54px;
+    padding-left: 54px;}
+              
+    .tredjeknap:hover {
+    color: #222;
+    background-color: white;}
+    
+    .fjerdeknap {
+      position: relative;
+      background-color: #222;
+      padding: 10px;
+      border-radius: 15px;
+      border: 1px solid white;
+      text-decoration: none;
+      color: white;
+      transition: 0.2s ease-in-out;
+      bottom: 540px;
+      font-size: 20px;
+      left: 450px;
+      padding-right: 54px;
+      padding-left: 54px;}
+                
+      .fjerdeknap:hover {
+      color: #222;
+      background-color: white;}
+    
+
+    
+      
+  }
+
+  

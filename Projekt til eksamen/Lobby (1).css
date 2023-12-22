@@ -1,0 +1,264 @@
+/*Iphone 14 og 15*/
+@media screen and (min-width: 430px) and (max-width: 930px) { 
+@import url(https://fonts.googleapis.com/css2?family=Inter&family=Lato&display=swap%27);  
+body{
+background-color: #2d2828;
+width: 100%;
+height: 100%;
+overflow-x: hidden;}
+
+.header {
+position: relative;
+background-color: #222020;
+width: 620px;
+height: 120px;
+margin: -10px;}
+
+.Privatpolitik {
+position: relative;
+background-color: #222020;
+width: 620px;
+height: 520px;
+margin: -10px;
+top: 20px;}
+
+.Privatpolitiktekst { 
+position: relative;
+color: white;
+left: 1px;
+font-size: 22px;
+bottom: 500px;
+font-size: 25px;
+line-height: 50px;}
+
+.linje {
+position: relative;
+border-top: 5px solid #ffffff; /* White color */
+width: 124px; 
+bottom: 880px; }
+  
+.facebookimg {
+position: relative;
+bottom: 888px;
+left: 400px;}
+
+/*Logo billede*/
+.image {
+position: relative;
+top: 15px;
+left: 20px;}
+
+/*Burgermenu billede*/
+.img {
+position: relative;
+bottom: 40px;
+right: 100px;}
+
+/*TOP PICTURE*/
+.lobby {
+position: relative;
+right: 15px;
+width: 600px;}
+
+.LOBBYOVERSKRIFT {
+position: relative;
+top: 200px;}
+
+.lobbytekst {
+position: relative;
+left: 5px;
+top: 15px;}
+
+.lobbytekst {
+position: relative;
+color: white;
+font-family: inter, sans-serif;
+bottom: 900px;
+font-size: 20px;
+width: 425px;
+line-height: 35px;
+left: 45px;}
+
+.burgermenu {
+position: relative;
+bottom: 90px;
+left: 410px;}
+
+.Lobbyen {
+position: relative;
+color: white;
+font-size: 90px;
+bottom: 480px;
+left: 870px;
+display: none;}    
+
+.logo {
+position: relative;
+bottom: 780px;
+display: none;}
+
+.navbar a {
+position: relative;
+bottom: 870px;
+float: right;
+display: block;
+font-size: 30px;
+color: white;
+text-align: center;
+padding: 14px 16px;
+text-decoration: none;
+right: 20px;
+display: none;}
+
+.Privatpolitikpc {
+position: relative;
+margin: -20px;
+display: none;}     
+
+.bordfodbold {
+position: relative;
+bottom: 720px;
+left: 1120px;
+display: none;}
+    
+.poolbord {
+position: relative;
+bottom: 925px;
+left: 1580px;
+display: none;}
+    
+.bar {
+position: relative;
+bottom: 850px;
+left: 1120px;
+display: none;}
+    
+.fælles {
+position: relative;
+bottom: 1058px;
+left: 1580px;
+display: none;}
+                
+} /*end tag til media query mobile view*/ 
+@media screen and (min-width: 768px) {
+body{
+background-color: #2d2828;
+width: 100%;
+height: 100%;
+overflow-x: hidden;}
+
+.burgermenu {
+position: relative;
+bottom: 90px;
+left: 410px;
+display: none;}
+
+.headerpc {
+position: relative;
+background-color: #222020;
+width: 9020px;
+height: 120px;
+bottom: 400px;
+margin: -10px;}
+
+.facebookimg {
+position: relative;
+bottom: 888px;
+left: 400px;
+display: none;} 
+
+.header {
+position: relative;
+background-color: #222020;
+width: 620px;
+height: 120px;
+margin: -10px;
+display: none;}
+
+.lobby {
+position: relative;
+right: 15px;
+width: 600px;
+display: none;}
+
+.Lobbyen {
+position: relative;
+color: white;
+font-size: 90px;
+bottom: 480px;
+left: 870px;}
+
+.lobbytekst {
+position: relative;
+color: white;
+font-family: inter, sans-serif;
+top: 300px;
+font-size: 20px;
+width: 925px;
+line-height: 35px;
+left: 40px;}
+
+.Privatpolitiktekst { 
+position: relative;
+color: white;
+left: 1px;
+font-size: 22px;
+bottom: 500px;
+font-size: 25px;
+line-height: 50px;
+display: none;}
+    
+.logo {
+position: relative;
+bottom: 780px;}
+
+.navbar a {
+position: relative;
+bottom: 870px;
+float: right;
+display: block;
+font-size: 30px;
+color: white;
+text-align: center;
+padding: 14px 16px;
+text-decoration: none;
+right: 20px;}
+      
+.navbar a:hover {color: #556E53;}
+    
+.Privatpolitik {
+position: relative;
+background-color: #222020;
+width: 620px;
+height: 520px;
+margin: -10px;
+top: 20px;
+display: none;}
+
+.Privatpolitikpc {
+position: relative;
+margin: -20px;}
+    
+.bordfodbold {
+position: relative;
+bottom: 720px;
+left: 1120px;}
+
+.poolbord {
+position: relative;
+bottom: 925px;
+left: 1580px;}
+
+.bar {
+position: relative;
+bottom: 850px;
+left: 1120px;}
+
+.fælles {
+position: relative;
+bottom: 1058px;
+left: 1580px;}
+    
+    
+
+}
